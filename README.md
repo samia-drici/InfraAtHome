@@ -23,7 +23,7 @@ In my case i need DNS view, but Pi-hole don't implemented this feature.
 
 ## Why many docker-compose and not one ?
 
-## Why use a scripts to start all Docker-compose ?
+## Why use a script to start all Docker-compose ?
 
 ## Why use latest and not a specific version ?
 
